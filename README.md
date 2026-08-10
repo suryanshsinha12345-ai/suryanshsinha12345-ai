@@ -13,4 +13,5 @@ I work with:
 - **[Employee & Project Data Analysis](#)** — Python/Pandas project wrangling and analyzing employee and project records
 
 ### Let's connect
-*(add LinkedIn/email here later if you want)*
+Suryanshsiha12345@gmail.com
+
