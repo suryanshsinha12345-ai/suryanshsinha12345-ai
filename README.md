@@ -141,7 +141,7 @@ I'm currently looking for opportunities as a **Fresher / Entry-Level Data Analys
 
 📧 **Email:** Suryanshsinha12345@gmail.com
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](#)
+💼 **LinkedIn:** https://www.linkedin.com/in/suryansh-sinha-56628a306/
 
 🐙 **GitHub:** [View my GitHub](https://github.com/suryanshsinha12345-ai)
 
