@@ -1,150 +1,177 @@
-# Hi, I'm Suryansh Sinha 👋
+# Suryansh Sinha — Data Analyst Portfolio
 
-### Aspiring Data Analyst | SQL • Python • Power BI • Excel • Looker Studio
+Aspiring Data Analyst with a background in History and hands-on experience building projects across SQL, Python, Power BI, Excel, exploratory data analysis, and business analytics.
 
-I'm an aspiring **Data Analyst** with a background in History and a strong interest in turning raw data into meaningful business insights.
-
-I work across data cleaning, exploratory data analysis, SQL analysis, dashboard development, and business reporting. I'm currently building a practical portfolio focused on solving real-world analytical problems using industry-relevant tools.
+I focus on transforming raw data into structured analysis, meaningful insights, and business-focused dashboards.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Skills
 
-### 📊 Business Intelligence & Visualization
-- **Power BI** — Interactive dashboards, DAX measures, data modeling
-- **Looker Studio** — Interactive dashboards, KPI reporting, data visualization
+### Data Analysis
+- SQL
+- Python
+- Pandas
+- NumPy
+- Statistics
 
-### 🐍 Programming & Data Analysis
-- **Python** — Pandas, NumPy, data wrangling, EDA, visualization
+### Business Intelligence & Visualization
+- Power BI
+- DAX
+- Data Modeling
+- Excel
+- PivotTables
 
-### 🗄️ SQL & Databases
-- **PostgreSQL** — Joins, CTEs, window functions, aggregations, analytical queries
-
-### 📑 Spreadsheet Analytics
-- **Microsoft Excel** — PivotTables, formulas, data analysis, business reporting
-- **Google Sheets** — Data cleaning, formulas, analysis, reporting, collaboration
+### Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Feature Engineering
+- Business Analytics
+- Dashboard Development
+- Customer & Churn Analysis
 
 ---
 
-# 📂 Featured Projects
+# 📊 Featured Projects
 
-## 📊 Power BI
+## 1. E-Commerce SQL & Python Analysis — PD06
 
-### 🛒 E-Commerce Sales Performance Dashboard
+**Tools:** SQL, Python, Pandas, Matplotlib
+
+End-to-end e-commerce analysis covering basic, intermediate, and advanced analytical problems.
+
+### Key Areas
+- Sales and category analysis
+- Customer analysis
+- Seller performance
+- Monthly sales trends
+- Revenue contribution
+- Moving averages
+- Cumulative sales
+- Year-over-year analysis
+- Customer retention
+- Top customers by yearly spending
+
+**Repository:** Coming soon
+
+---
+
+## 2. BCG Data Science Job Simulation
+
+**Tools:** Python, Pandas, Scikit-learn, Random Forest
+
+Data science project based on PowerCo customer churn investigation.
+
+### Workflow
+- Exploratory Data Analysis
+- Data Understanding
+- Feature Engineering
+- Customer-level feature creation
+- Random Forest modelling
+- Model evaluation
+
+### Model Evaluation
+The project evaluates the model using accuracy, precision, recall, F1-score, ROC-AUC, and a confusion matrix, with particular attention to the challenge of identifying churners.
+
+**Repository:** Coming soon
+
+---
+
+## 3. Tata Data Visualisation
+
+**Tools:** Power BI
+
+Power BI data visualisation project focused on transforming business data into interactive visual reports.
+
+### Areas Covered
+- Business framing
+- KPI analysis
+- Visual selection
+- Interactive reporting
+- Insight communication
+
+**Repository:** Coming soon
+
+---
+
+## 4. Credit Card Transaction & Customer Dashboard
+
 **Tools:** Power BI, DAX, Data Modeling
 
-Interactive dashboard analyzing e-commerce sales performance, trends, average order value, and key business metrics.
+Interactive Power BI dashboard covering customer demographics and credit-card transaction performance.
 
-👉 [View Project](https://github.com/suryanshsinha12345-ai/E-Commerce-Sales-Dashboard)
+### Analysis Areas
+- Revenue
+- Transactions
+- Average transaction amount
+- Customer demographics
+- Card category
+- Expenditure type
+- Chip usage
+- Weekly transaction trends
+- Customer-level analysis
 
----
-
-## 📈 Looker Studio
-
-### 👥 Employee Analytics Dashboard
-**Tools:** Looker Studio, Data Visualization
-
-Interactive workforce analytics dashboard covering employee KPIs, salary, gender distribution, job roles, employee trends, business areas, and geographic distribution.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Employees-s-Dashboard)
-
----
-
-# 🐍 Python Projects
-
-### 📱 Google Play Store EDA
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
-Exploratory analysis of Google Play Store applications covering ratings, installs, reviews, pricing, categories, app size, and update trends.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Google-Play-Store-EDA-project.)
+**Repository:** Coming soon
 
 ---
 
-### ❤️ Heart Disease EDA & Prediction
-**Tools:** Python, Pandas, NumPy, Seaborn, Scikit-learn
+## 5. Financial Performance Executive Dashboard
 
-Exploratory and statistical analysis of clinical data followed by logistic regression and classification modeling to investigate factors associated with heart disease.
+**Tools:** Power BI, DAX
 
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Heart-Disease-EDA-Prediction-Python)
+Executive-level financial performance dashboard designed to monitor business performance through key financial KPIs and interactive analysis.
 
----
+### Key Areas
+- Total Revenue
+- Gross Margin %
+- Net Cash
+- EBITDA %
+- Revenue trends
+- Revenue vs Budget
+- Regional performance
+- Revenue by product/service
+- Receivables aging
+- Cash-flow analysis
+- Budget variance
 
-### 🚚 Porter Delivery Analytics
-**Tools:** Python, Pandas, NumPy, Plotly
-
-Analysis of food-delivery operations covering delivery time, order behavior, markets, store categories, partner availability, order value, and operational performance.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Porter-Delivery-EDA-notebook)
-
----
-
-### 🐍 Employee Data Wrangling
-**Tools:** Python, Pandas, NumPy
-
-Data-wrangling project demonstrating data cleaning, missing-value handling, dataset merging, feature creation, conditional transformations, aggregation, and filtering.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Employee-Data-Wrangling-Python-Pandas)
+**Repository:** Coming soon
 
 ---
 
-# 🗄️ SQL Projects
+# 📈 Additional Projects
 
-### 📞 Telecom Customer Churn Analysis
-**Tools:** PostgreSQL, SQL
-
-SQL-based customer churn analysis using joins, aggregations, CTEs, window functions, and analytical queries to identify customer behavior and potential churn patterns.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Telecom-Customer-Churn-Analysis-SQL-project)
-
----
-
-# 📑 Excel Projects
-
-### 👥 HR Employee Attrition Dashboard
-**Tools:** Excel, PivotTables, Excel formulas
-
-HR analytics dashboard analyzing employee attrition across departments, gender, overtime, job satisfaction, income, distance from home, performance, and tenure.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/HR-Employee-Attrition-Dashboard-Excel)
+| Project | Tools |
+|---|---|
+| Telecom Customer Churn Analysis | PostgreSQL, SQL |
+| Google Play Store EDA | Python, Pandas, Matplotlib, Seaborn |
+| Heart Disease EDA & Prediction | Python, Pandas, Scikit-learn |
+| Porter Delivery Analytics | Python, Pandas, NumPy, Plotly |
+| Employee Data Wrangling | Python, Pandas, NumPy |
+| HR Employee Attrition Dashboard | Excel, PivotTables |
+| Superstore Sales Analysis | Excel, PivotTables |
 
 ---
 
-### 🛒 Superstore Sales Analysis
-**Tools:** Excel, PivotTables, Excel formulas
+# 🎓 Certifications & Simulations
 
-Sales analysis covering regional performance, product categories, sales metrics, shipping analysis, logical functions, aggregation, and business reporting.
-
-👉 [View Project](https://github.com/suryanshsinha12345-ai/Sample-Superstore-Sales-Analysis-Excel-workbook)
-
----
-
-# 📚 Currently Strengthening
-
-- Advanced SQL
-- Power BI & DAX
-- Data Modeling
-- Python for Data Analysis
-- Statistical Analysis
-- Business Analytics
-- Data Visualization
+- BCG Data Science Job Simulation
+- Tata Data Visualisation
 
 ---
 
 # 🎯 Career Objective
 
-I'm currently looking for opportunities as a **Fresher / Entry-Level Data Analyst**, where I can apply my analytical skills, learn from real-world data problems, and contribute to data-driven decision making.
+Currently seeking opportunities as a Fresher / Entry-Level Data Analyst where I can apply SQL, Python, Power BI, Excel, and analytical problem-solving skills to real-world business problems.
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
-📧 **Email:** Suryanshsinha12345@gmail.com
+**Email:** Suryanshsinha12345@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/suryansh-sinha-56628a306/
-
-🐙 **GitHub:** [View my GitHub](https://github.com/suryanshsinha12345-ai)
+**GitHub:**  
+https://github.com/suryanshsinha12345-ai
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Explore the repositories to see the analysis, dashboards, code, and project documentation.
