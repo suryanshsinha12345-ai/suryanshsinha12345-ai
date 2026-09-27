@@ -1,177 +1,51 @@
-# Suryansh Sinha — Data Analyst Portfolio
+# Hi, I'm Suryansh Sinha 👋
 
-Aspiring Data Analyst with a background in History and hands-on experience building projects across SQL, Python, Power BI, Excel, exploratory data analysis, and business analytics.
+### Aspiring Data Analyst | SQL • Python • Power BI • Excel
 
-I focus on transforming raw data into structured analysis, meaningful insights, and business-focused dashboards.
+I'm an aspiring Data Analyst with a background in History and a strong interest in turning data into meaningful business insights.
 
----
-
-## 🛠️ Technical Skills
-
-### Data Analysis
-- SQL
-- Python
-- Pandas
-- NumPy
-- Statistics
-
-### Business Intelligence & Visualization
-- Power BI
-- DAX
-- Data Modeling
-- Excel
-- PivotTables
-
-### Analytics
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
-- Business Analytics
-- Dashboard Development
-- Customer & Churn Analysis
+I work with SQL, Python, Power BI, and Excel for data cleaning, analysis, visualization, and dashboard development.
 
 ---
 
-# 📊 Featured Projects
+## 🛠️ Skills
 
-## 1. E-Commerce SQL & Python Analysis — PD06
-
-**Tools:** SQL, Python, Pandas, Matplotlib
-
-End-to-end e-commerce analysis covering basic, intermediate, and advanced analytical problems.
-
-### Key Areas
-- Sales and category analysis
-- Customer analysis
-- Seller performance
-- Monthly sales trends
-- Revenue contribution
-- Moving averages
-- Cumulative sales
-- Year-over-year analysis
-- Customer retention
-- Top customers by yearly spending
-
-**Repository:** Coming soon
+- **SQL** — PostgreSQL, Joins, CTEs, Window Functions
+- **Python** — Pandas, NumPy, EDA, Data Visualization
+- **Power BI** — DAX, Data Modeling, Interactive Dashboards
+- **Excel** — PivotTables, Formulas, Data Analysis
+- **Analytics** — Data Cleaning, EDA, Statistics, Business Analytics
 
 ---
 
-## 2. BCG Data Science Job Simulation
+## 📂 Featured Projects
 
-**Tools:** Python, Pandas, Scikit-learn, Random Forest
+### 🛒 [E-Commerce Sales Dashboard](https://github.com/suryanshsinha12345-ai/E-Commerce-Sales-Dashboard)
+Power BI dashboard analyzing sales performance, trends, AOV, and key business metrics.
 
-Data science project based on PowerCo customer churn investigation.
+### 📞 [Telecom Customer Churn Analysis](https://github.com/suryanshsinha12345-ai/Telecom-Customer-Churn-SQL)
+SQL-based analysis using joins, CTEs, aggregations, and window functions to explore customer churn.
 
-### Workflow
-- Exploratory Data Analysis
-- Data Understanding
-- Feature Engineering
-- Customer-level feature creation
-- Random Forest modelling
-- Model evaluation
+### 📱 [Google Play Store EDA](https://github.com/suryanshsinha12345-ai/Google-Play-Store-EDA)
+Python-based exploratory analysis of app ratings, installs, reviews, pricing, and categories.
 
-### Model Evaluation
-The project evaluates the model using accuracy, precision, recall, F1-score, ROC-AUC, and a confusion matrix, with particular attention to the challenge of identifying churners.
+### ❤️ [Heart Disease EDA & Prediction](https://github.com/suryanshsinha12345-ai/Heart-Disease-EDA-Prediction)
+Exploratory data analysis and classification modeling on clinical data.
 
-**Repository:** Coming soon
+### 🚚 [Porter Delivery Analytics](https://github.com/suryanshsinha12345-ai/Porter-Delivery-Analytics)
+Python-based analysis of delivery operations, order behavior, markets, and operational performance.
 
----
-
-## 3. Tata Data Visualisation
-
-**Tools:** Power BI
-
-Power BI data visualisation project focused on transforming business data into interactive visual reports.
-
-### Areas Covered
-- Business framing
-- KPI analysis
-- Visual selection
-- Interactive reporting
-- Insight communication
-
-**Repository:** Coming soon
+### 👥 [HR Employee Attrition Dashboard](https://github.com/suryanshsinha12345-ai/HR-Employee-Attrition-Dashboard-Excel)
+Excel dashboard analyzing employee attrition across departments and workforce characteristics.
 
 ---
 
-## 4. Credit Card Transaction & Customer Dashboard
+## 🎯 Career Goal
 
-**Tools:** Power BI, DAX, Data Modeling
-
-Interactive Power BI dashboard covering customer demographics and credit-card transaction performance.
-
-### Analysis Areas
-- Revenue
-- Transactions
-- Average transaction amount
-- Customer demographics
-- Card category
-- Expenditure type
-- Chip usage
-- Weekly transaction trends
-- Customer-level analysis
-
-**Repository:** Coming soon
+Currently seeking **Fresher / Entry-Level Data Analyst** opportunities where I can apply my analytical and technical skills to real-world business problems.
 
 ---
 
-## 5. Financial Performance Executive Dashboard
+📫 **Email:** Suryanshsinha12345@gmail.com
 
-**Tools:** Power BI, DAX
-
-Executive-level financial performance dashboard designed to monitor business performance through key financial KPIs and interactive analysis.
-
-### Key Areas
-- Total Revenue
-- Gross Margin %
-- Net Cash
-- EBITDA %
-- Revenue trends
-- Revenue vs Budget
-- Regional performance
-- Revenue by product/service
-- Receivables aging
-- Cash-flow analysis
-- Budget variance
-
-**Repository:** Coming soon
-
----
-
-# 📈 Additional Projects
-
-| Project | Tools |
-|---|---|
-| Telecom Customer Churn Analysis | PostgreSQL, SQL |
-| Google Play Store EDA | Python, Pandas, Matplotlib, Seaborn |
-| Heart Disease EDA & Prediction | Python, Pandas, Scikit-learn |
-| Porter Delivery Analytics | Python, Pandas, NumPy, Plotly |
-| Employee Data Wrangling | Python, Pandas, NumPy |
-| HR Employee Attrition Dashboard | Excel, PivotTables |
-| Superstore Sales Analysis | Excel, PivotTables |
-
----
-
-# 🎓 Certifications & Simulations
-
-- BCG Data Science Job Simulation
-- Tata Data Visualisation
-
----
-
-# 🎯 Career Objective
-
-Currently seeking opportunities as a Fresher / Entry-Level Data Analyst where I can apply SQL, Python, Power BI, Excel, and analytical problem-solving skills to real-world business problems.
-
----
-
-# 📫 Contact
-
-**Email:** Suryanshsinha12345@gmail.com
-
-**GitHub:**  
-https://github.com/suryanshsinha12345-ai
-
----
-
-⭐ Explore the repositories to see the analysis, dashboards, code, and project documentation.
+⭐ Explore my repositories to see my projects and analysis.
