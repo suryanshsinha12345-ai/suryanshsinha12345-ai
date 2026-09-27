@@ -1,6 +1,6 @@
 # Suryansh Sinha — Data Analyst Portfolio
 
-Aspiring Data Analyst with a background in History and hands-on experience across **SQL, Python, Power BI, Excel, exploratory data analysis, business analytics, and machine learning**.
+Aspiring Data Analyst with a background in History and hands-on experience across **SQL, Python, Power BI, Excel, Looker Studio, exploratory data analysis, and business analytics**.
 
 I focus on transforming raw data into structured analysis, meaningful insights, and business-focused dashboards.
 
@@ -33,6 +33,8 @@ I focus on transforming raw data into structured analysis, meaningful insights, 
 - KPI Analysis
 - Customer Analytics
 - Data Storytelling
+
+---
 
 # 📊 Featured Projects
 
@@ -172,13 +174,13 @@ Sales analysis covering regional performance, product categories, sales metrics,
 
 ---
 
-# 🤖 Machine Learning & Job Simulations
+# 🎓 Job Simulation
 
 ## BCG Data Science Job Simulation — Customer Churn Analysis
 
 **Python • Pandas • Scikit-learn • Random Forest**
 
-BCG Data Science Job Simulation completed through Forage, covering exploratory analysis, feature engineering, Random Forest modeling, classification evaluation, and customer churn analysis.
+BCG Data Science Job Simulation completed through Forage, covering exploratory analysis, feature engineering, classification modeling, and model evaluation for customer churn analysis.
 
 👉 [View Project](https://github.com/suryanshsinha12345-ai/BCG-Data-Science-Job-Simulation-Customer-Churn-Analysis)
 
@@ -190,7 +192,7 @@ Currently seeking **Fresher / Entry-Level Data Analyst** opportunities where I c
 
 ---
 
-# 📂 Portfolio Repository
+# 📂 Portfolio
 
 This repository serves as a central collection of my data analytics projects across:
 
@@ -198,12 +200,12 @@ This repository serves as a central collection of my data analytics projects acr
 - Python & Pandas
 - Power BI & DAX
 - Excel
+- Looker Studio
 - Exploratory Data Analysis
 - Business Analytics
-- Machine Learning
 - Data Visualization
 
-👉 [Explore All Projects](https://github.com/suryanshsinha12345-ai)
+👉 [Explore My GitHub](https://github.com/suryanshsinha12345-ai)
 
 ---
 
